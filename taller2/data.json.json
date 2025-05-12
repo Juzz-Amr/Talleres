@@ -1,0 +1,37 @@
+
+{
+  "books": [
+    {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967,
+      "genres": ["Realismo mágico", "Ficción"],
+      "ratings": {
+        "goodreads": 4.1,
+        "amazon": 4.5
+      }
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "genres": ["Distopía", "Ficción política"],
+      "ratings": {
+        "goodreads": 4.2,
+        "amazon": 4.7
+      }
+    },
+    {
+      "title": "El principito",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "genres": ["Fábula", "Literatura infantil"],
+      "ratings": {
+        "goodreads": 4.5,
+        "amazon": 4.8
+      }
+    }
+  ],
+  "total_books": 3,
+  "most_popular_genre": "Ficción"
+}
